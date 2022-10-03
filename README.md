@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aryan142001
-- 👀 I’m interested in full time SDE roles
 - 🌱 I have a good hold on programming and data structures
 - 💞️ Have solved many questions from different coding platforms like GFG,leetcode,codechef,codeforces,interviewbit.
 - 📫 How to reach me gmail-aryan.sharma.as74@gmail.com
